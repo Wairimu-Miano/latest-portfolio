@@ -1,0 +1,18 @@
+body{
+  background-color: Crimson;
+
+}
+h1{
+  font-family:cursive;
+  font-size:200%;
+  color:white;
+  border: 2px solid white
+}
+ul{
+  font-size: 130%
+  line-height:inherit;
+}
+ol{
+  border: 3px dashed white;
+  color: white;
+}
